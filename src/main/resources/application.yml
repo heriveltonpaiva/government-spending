@@ -7,3 +7,4 @@ feign:
         loggerLevel: basic
   url:
     governamental: http://www.transparencia.gov.br/api-de-dados/orgaos-siafi
+    parliamentary: http://www.transparencia.gov.br/api-de-dados/emendas
